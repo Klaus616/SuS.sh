@@ -18,7 +18,7 @@
  gem install lolcat
  figlet -f big Wait | lolcat
  git clone https://github.com/Klaus616/edit888
- sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
- sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
+ sed 's+THBD+'$user'+g' edit888/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
+ sed 's+THBD+'$user'+g' edit888/wlc2.py > /data/data/com.termux/files/usr/etc/wlc.py
  rm -rf edit888
  figlet -f big Klaus | lolcat
