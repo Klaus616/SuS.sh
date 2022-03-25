@@ -21,4 +21,4 @@
  sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
  sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
  rm -rf edit888
- figlet -f big BDh@fCkers | lolcat
+ figlet -f big Klaus | lolcat
