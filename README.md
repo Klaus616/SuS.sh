@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
  echo ""
- read -p $' \e[0m\e[1;92m Input Seu nome de banner aqui : \e[0m\e[1;96m\en' user
+ read -p $' \e[0m\e[1;92m Seu nome de banner aqui : \e[0m\e[1;96m\en' user
  echo ""
  echo ""
  echo -e $g "Por favor espere alguns minutos...... "
