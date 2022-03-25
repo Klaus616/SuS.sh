@@ -17,7 +17,7 @@
  pkg install ruby -y
  gem install lolcat
  figlet -f big Wait | lolcat
- git clone https://github.com/Klaus616/edit888
+ git clone https://github.com/Klaus616/edit888/
  sed 's+THBD+'$user'+g' edit888/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
  sed 's+THBD+'$user'+g' edit888/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
  rm -rf edit888
